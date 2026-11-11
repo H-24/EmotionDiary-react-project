@@ -5,8 +5,6 @@ import Home from './pages/Home'
 import New from './pages/New'
 import Edit from './pages/Edit'
 import NotFound from './pages/NotFound'
-import Button from './components/Button'
-import Header from './components/Header'
 import { createContext, useReducer, useRef } from 'react'
 
 const mockData = [
